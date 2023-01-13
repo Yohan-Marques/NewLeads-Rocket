@@ -12,7 +12,6 @@
     
 
 ?>
-
 <!DOCTYPE HTML>
 <html lang="en">
     <head>
@@ -46,7 +45,7 @@
                     perfeito para se preparar para codar ☕</p>
                     
                     <div>
-                    <form action="./leadnew.php" method="POST">
+                    <form action="leadnew.php" method="POST">
                        <label>Insira seu e-mail:</label>
                        
                        <div class="Rect">
